@@ -1,6 +1,9 @@
-print("========================================")
-print("     SIMPLE CONSOLE INPUT & DISPLAY     ")
-print("========================================")
+print("\"1 December 1918\" University of Alba Iulia")
+print("Computer Science Department")
+print("Course: Fundamental Algorithms")
+print("Lab 2: Question 1 - Reading Data from the Keyboard")
+print("By: Osatohanmwen Davidson Ikponmwenosa")
+
 
 # ---------------------------------------------------------
 # 1. Read a sequence of numbers from the keyboard
